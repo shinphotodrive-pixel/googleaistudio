@@ -1,0 +1,6 @@
+{
+  "name": "Smart Speed Enforcement System (RPi 5 & Gemini AI)",
+  "description": "라즈베리파이 5, 24GHz 도플러 레이더, 74HC595 188 LED 디스플레이, AR0234 글로벌 셔터 및 구글 AI 스튜디오 Gemini를 활용한 스마트 과속 단속 시스템 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
